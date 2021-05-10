@@ -1,0 +1,20 @@
+{
+  "name": "promesas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.2.4",
+    "@types/node": "^14.14.41",
+    "ts-node": "^9.1.1"
+  },
+  "dependencies": {
+    "jsonfile": "^6.1.0",
+    "minimist": "^1.2.5"
+  }
+}

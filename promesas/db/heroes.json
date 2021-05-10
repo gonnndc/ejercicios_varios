@@ -1,0 +1,37 @@
+[
+    {
+        "heroe": "Superman",
+        "poder": "De todo un poco",
+        "id": 1
+    },
+    {
+        "heroe": "Batman",
+        "poder": "Dinero",
+        "id": 2
+    },
+    {
+        "heroe": "Spiderman",
+        "poder": "Sentido aracnido",
+        "id": 3
+    },
+    {
+        "heroe": "Deadpool",
+        "poder": "Regeneracion",
+        "id": 4
+    },
+    {
+        "heroe": "Iron Man",
+        "poder": "Dinero",
+        "id": 5
+    },
+    {
+        "heroe": "Hulk",
+        "poder": "Fuerza excesiva",
+        "id": 6
+    },
+    {
+        "heroe": "Flash",
+        "poder": "Velocidad excesiva",
+        "id": 7
+    }
+]
